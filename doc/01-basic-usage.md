@@ -193,7 +193,7 @@ For libraries that specify autoload information, Composer generates a
 `vendor/autoload.php` file. You can simply include this file and you
 will get autoloading for free.
 
-```php
+```php trial edited line
 require 'vendor/autoload.php';
 ```
 
